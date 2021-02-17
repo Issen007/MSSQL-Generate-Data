@@ -5,7 +5,7 @@ This is only to test and see if it works.
 ## Prerequirment
 You most install following packages on your machine.
 ```
-pip install pymssql names argparse pandas
+pip install -r requirements.txt
 ```
 And you most create manually a database and a tablespace that you have Read/Write access to.
 
